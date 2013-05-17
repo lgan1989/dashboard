@@ -1,0 +1,71 @@
+@import url(http://fonts.googleapis.com/css?family=Julius+Sans+One);
+#leftbar{
+    position:fixed;
+    left:50%;
+    margin-top:85px;
+    width:120px;
+    margin-left:-450px;
+}
+
+.label{
+   
+    width:120px;
+    height:30px;
+    background:#3A3A3A ;
+    text-align:left;
+    padding:4px;
+    padding-left:7px;
+    -webkit-box-shadow:  0px 0px 3px 0px rgba(0, 0, 0, 0.3);    
+    box-shadow:  0px 0px 3px 0px rgba(0, 0, 0, 0.3);
+}
+.current{
+    background:#C47147;
+    width:140px;
+}
+.label a{
+
+    text-decoration:none;
+    color:#F5F5E6; 
+    font-family: 'Julius Sans One', sans-serif;
+    font-size:11pt;
+    line-height:30px;
+    display;block;
+    width:100%;
+    height:100%;
+}
+.label a:hover{
+        text-shadow: 0px 0px 2px #ffffff;
+        filter: dropshadow(color=#ffffff, offx=0, offy=0);
+}
+.current a:hover{
+text-shadow: 0px 0px 0px #ffffff;
+        filter: dropshadow(color=#ffffff, offx=0, offy=0);  
+      
+}
+
+
+#addnew{    
+    margin:auto;
+    text-align:left;
+    width:120px;
+    float:left;
+    padding:4px;
+    padding-left:7px; 
+    line-height:30px;
+    font-family: 'Graduate', cursive;
+    font-size:11pt;   
+    color:#F5F5E6;   
+    background:#00A665 ; 
+    -webkit-box-shadow:  0px 0px 3px 0px rgba(0, 0, 0, 0.3);    
+    box-shadow:  0px 0px 3px 0px rgba(0, 0, 0, 0.3);  
+}
+#addnew span{
+    cursor:pointer;
+    text-decoration:none;
+    color:#fff;
+}
+#addnew span:hover{
+   text-shadow: 0px 0px 2px #ffffff;
+        filter: dropshadow(color=#ffffff, offx=0, offy=0);        
+}
+

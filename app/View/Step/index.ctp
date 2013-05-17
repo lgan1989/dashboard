@@ -1,0 +1,38 @@
+<?php
+$this->assign('title' , $data['title']);
+?>
+<script language="javascript" type="text/javascript">
+
+$(document).ready( function(){    
+
+    $('.editable').editable();
+
+});
+
+</script>
+<div id="step">
+    <div id="itemlist">
+<?php foreach ($steps as $item): 
+        $item = $item['Step']
+        ?>
+        <div class="item">
+            <div class="date">
+                <span class="title"><a href="#" id="startYear" class='editable' data-type="text" data-pk="<?php echo $item['sid'];?>" data-url="<?php echo $this->Html->url(array('controller' => 'step' , 'action' => 'post' , 'startYear'));?>" data-original-title="Start Year"><?php echo $item['startYear'];?></a>  - <a href="#" id="endYear" class="editable"  data-type="text" data-pk="<?php echo $item['sid'];?>" data-url="<?php echo $this->Html->url(array('controller' => 'step' , 'action' => 'post' , 'endYear'));?>" data-original-title="End Year">  <?php echo $item['endYear'];?></a> </span>
+                <div style="clear:both;"></div> 
+                <span class="distance"><a href="#" id="distance" class='editable' data-type="text" data-pk="<?php echo $item['sid'];?>" data-url="<?php echo $this->Html->url(array('controller' => 'step' , 'action' => 'post' , 'distance'));?>" data-original-title="Distance"><?php echo $item['distance'];?></a><br>MILES</span>           
+            </div>       
+            <div class="introduction">
+            <span class="title city" ><?php echo $item['city'];?></span>
+                <br>
+                <div class="city_content">
+                    <?php echo $item['description']; ?>
+                </div>
+            </div>
+            <div class="map">
+                <img src="<?php echo $this->webroot."img/".$item['image'];?>" width="200" alt="alt"/>
+            </div>
+        </div>
+<?php endforeach;?>
+    </div>
+
+</div>

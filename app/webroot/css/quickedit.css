@@ -1,0 +1,98 @@
+.jeip-saving{
+    padding:4px;
+    margin-top:10px;
+    width:120px;
+    height:30px;
+    float:left;
+    color:rbga(0,0,0,0.8);
+    font-size:11pt;
+}
+
+.jeip-editfield{
+   border:none;
+   line-height:13px;
+   background:rgba(255,222,173,0.8);
+   color: rgba(0 , 0 , 0 , 0.8);
+   font-size:11pt;
+    width:120px;
+    padding:4px;
+    padding-left:7px; 
+   outline:none;
+   height:30px;
+   font-family: 'Graduate', cursive;
+   text-align:left;
+}
+
+.jeip-savebutton{
+
+    width:65px;
+    height:30px;
+   background:rgba(0,150,80,0.8); 
+    border:none;
+    color:#F5F5E6;
+    float:left;
+    font-size:9pt;
+  
+
+}
+.jeip-cancelbutton{
+    float:left;
+   
+    background:rgba(235,50,0,0.65); 
+    width:65px;
+    height:30px;
+    border:none;
+    font-size:9pt;
+
+    color:#F5F5E6;
+}
+.jeip-button{
+    height:40px;
+    width:140px;
+}
+
+
+#toggleedit{
+    background-image: -webkit-linear-gradient(hsla(0,0%,0%,.1), hsla(0,0%,100%,.1)),
+                      -webkit-linear-gradient(left, #f66 50%, #6cf 50%);
+    background-size: 100% 100%, 200% 100%;
+    background-position: 0 0, 15px 0;
+    border-radius: 25px;
+    box-shadow: inset 0 1px 4px hsla(0,0%,0%,.5),
+                inset 0 0 10px hsla(0,0%,0%,.5),
+                0 0 0 1px hsla(0,0%,0%,.1),
+                0 -1px 2px 2px hsla(0,0%,0%,.25),
+                0 2px 2px 2px hsla(0,0%,100%,.75);
+    cursor: pointer;
+    height: 25px;
+    left: 50%;
+    margin: -12px -37px;
+    padding-right: 25px;
+    position: absolute;
+    top: 50%;
+    width: 75px;
+    -webkit-appearance: none;
+    -webkit-transition: .25s;
+}
+#toggleedit:after {
+    background-color: #eee;
+    background-image: -webkit-linear-gradient(hsla(0,0%,100%,.1), hsla(0,0%,0%,.1));
+    border-radius: 25px;
+    box-shadow: inset 0 1px 1px 1px hsla(0,0%,100%,1),
+                inset 0 -1px 1px 1px hsla(0,0%,0%,.25),
+                0 1px 3px 1px hsla(0,0%,0%,.5),
+                0 0 2px hsla(0,0%,0%,.25);
+    content: '';
+    display: block;
+    height: 25px;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 50px;
+}
+#toggleedit:clicked {
+    background-position: 0 0, 35px 0;
+    padding-left: 25px;
+    padding-right: 0;
+}
+

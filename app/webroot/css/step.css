@@ -1,0 +1,103 @@
+@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300);
+
+
+
+#step{
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;  
+
+}
+#itemlist{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    margin-top:20px;
+    width:1000px;
+}
+#step .item{
+    float:left;
+    padding:10px;
+    padding-left:0px;
+    width:1000px;
+    margin-top:10px;
+    margin-left:-450px;
+
+}
+#step .item .title{
+    
+    width:140px;
+    text-align:left;
+    float:left;
+    font-family: 'Yanone Kaffeesatz', sans-serif;    
+    font-size:14pt;
+    position: relative;
+    padding-bottom: 7px;
+}
+
+#step .item .title a {
+   color:#333;
+}
+
+
+#step .item .title::after{
+   content: "";
+   position: absolute;
+   bottom: 2px;
+   left: 0;
+   height: 1px;
+   width: 100%;
+   background: #444;
+   background: -webkit-gradient(linear, left top, right top, color-stop(0%,transparent), color-stop(50%,#999), color-stop(100%,transparent));
+   background: -webkit-linear-gradient(left, transparent 0%,#999 0%,transparent 100%);
+   background: -moz-linear-gradient(left, transparent 0%, #444 50%, #transparent 100%);
+   background: -ms-linear-gradient(left, transparent 0%,#444 50%,#transparent 100%);
+   background: -o-linear-gradient(left, transparent 0%,#444 50%,transparent 100%);
+   background: linear-gradient(left, transparent 0%,#444 50%,transparent 100%);
+
+}     
+#step .item .date{
+    float:left;
+
+}
+#step .item .distance{
+    float:left;
+    font-size:16pt;
+    margin-top:60px;
+    color:#f2f2f2;
+    border:double;
+    border-width:6px;
+    border-color:white;
+    width:70px;height:70px;border-radius:10px;line-height:30px;text-align:center;
+    background:#006f51 ;
+}
+#step .item .distance a{
+    color:#f2f2f2;
+}
+
+#step .item .city{
+    width:300px;
+}
+#step .item .introduction{
+    float:left;
+    margin-left:50px;
+    width:400px;
+    
+}
+#step .item .city_content{
+    float:left;
+    margin-top:15px;
+    clear:both;
+    text-align:left;
+    font-size:14pt;
+}
+#step .item .map{
+    float:left;
+    width:300px;
+    margin-top:30px;
+    margin-left:50px;
+}
+
+
