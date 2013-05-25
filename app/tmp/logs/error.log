@@ -4016,3 +4016,133 @@
 2013-05-17 15:45:36 Error: [MissingControllerException] Controller class PostController could not be found.
 #0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2013-05-20 16:21:41 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:22:11 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:22:34 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:22:49 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:22:57 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:25:11 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:25:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:26:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:27:58 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:29:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:30:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:31:13 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:31:42 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:32:27 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:32:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:33:02 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:33:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:34:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:35:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-20 16:38:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-21 09:39:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-22 12:04:21 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-23 10:54:51 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-23 10:55:45 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-23 10:55:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-23 10:56:07 Error: [PDOException] SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'Born city, I have lived there for more than 15 years. There is a beautiful town surrounded by mountains named Tianma, which mean' for column 'startYear' at row 1
+#0 C:\zion\webroot\dashboard\lib\Cake\Model\Datasource\DboSource.php(437): PDOStatement->execute(Array)
+#1 C:\zion\webroot\dashboard\lib\Cake\Model\Datasource\DboSource.php(403): DboSource->_execute('UPDATE `mydb`.`...', Array)
+#2 C:\zion\webroot\dashboard\lib\Cake\Model\Datasource\Database\Mysql.php(377): DboSource->execute('UPDATE `mydb`.`...')
+#3 C:\zion\webroot\dashboard\lib\Cake\Model\Model.php(1706): Mysql->update(Object(Step), Array, Array)
+#4 C:\zion\webroot\dashboard\lib\Cake\Model\Model.php(1573): Model->save(Array, Array)
+#5 C:\zion\webroot\dashboard\app\Controller\StepController.php(45): Model->saveField('startYear', 'Born city, I ha...')
+#6 [internal function]: StepController->post('startYear')
+#7 C:\zion\webroot\dashboard\lib\Cake\Controller\Controller.php(485): ReflectionMethod->invokeArgs(Object(StepController), Array)
+#8 C:\zion\webroot\dashboard\lib\Cake\Routing\Dispatcher.php(103): Controller->invokeAction(Object(CakeRequest))
+#9 C:\zion\webroot\dashboard\lib\Cake\Routing\Dispatcher.php(85): Dispatcher->_invoke(Object(StepController), Object(CakeRequest), Object(CakeResponse))
+#10 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-05-23 10:56:11 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-23 10:57:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-23 10:57:22 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-23 11:00:10 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-23 11:03:35 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-23 11:04:03 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-23 11:05:14 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-23 11:05:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-23 11:05:58 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-23 11:18:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-23 11:18:48 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-23 12:36:47 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-24 15:11:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-05-24 15:11:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 C:\zion\webroot\dashboard\app\webroot\index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

@@ -22,10 +22,14 @@ $(document).ready( function(){
                 <span class="distance"><a href="#" id="distance" class='editable' data-type="text" data-pk="<?php echo $item['sid'];?>" data-url="<?php echo $this->Html->url(array('controller' => 'step' , 'action' => 'post' , 'distance'));?>" data-original-title="Distance"><?php echo $item['distance'];?></a><br>MILES</span>           
             </div>       
             <div class="introduction">
-            <span class="title city" ><?php echo $item['city'];?></span>
+            <span class="title city" >
+<a href="#" id="city" class='editable' data-type="text" data-pk="<?php echo $item['sid'];?>" data-url="<?php echo $this->Html->url(array('controller' => 'step' , 'action' => 'post' , 'city'));?>" data-original-title="City">
+<?php echo $item['city'];?></a></span>
                 <br>
                 <div class="city_content">
+<a href="#" id="cityDescription" class='editable' data-type="textarea" data-pk="<?php echo $item['sid'];?>" data-url="<?php echo $this->Html->url(array('controller' => 'step' , 'action' => 'post' , 'description'));?>" data-original-title="Description">
                     <?php echo $item['description']; ?>
+</a>
                 </div>
             </div>
             <div class="map">

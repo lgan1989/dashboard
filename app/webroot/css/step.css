@@ -1,7 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300);
 
 
-
 #step{
     width:100%;
     margin-left:auto;
@@ -84,14 +83,16 @@
     float:left;
     margin-left:50px;
     width:400px;
+   
     
 }
-#step .item .city_content{
+#step .item .city_content a{
     float:left;
     margin-top:15px;
     clear:both;
     text-align:left;
     font-size:14pt;
+    color:#333;      
 }
 #step .item .map{
     float:left;
